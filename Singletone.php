@@ -2,13 +2,13 @@
 
 class PlayingCard
 {
-    protected  $deck;
+    private  $deck;
 
-    protected function __construct() {
+    private function __construct() {
 
     }
 
-    protected function __copy() {
+    private function __copy() {
 
     }
 

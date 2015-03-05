@@ -8,7 +8,7 @@ class PlayingCard
 
     }
 
-    private function __colone() {
+    private function __clone() {
 
     }
 
